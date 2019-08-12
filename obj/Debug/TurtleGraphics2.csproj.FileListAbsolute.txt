@@ -1,0 +1,42 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\ForLoops\TurtleGraphics2\bin\Debug\TurtleGraphics2.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.Form1.resources
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.Properties.Resources.resources
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.csproj.GenerateResource.Cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\ForLoops\TurtleGraphics2\bin\Debug\TurtleGraphics2.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\ForLoops\TurtleGraphics2\bin\Debug\TurtleGraphics2.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\ForLoops\TurtleGraphics2\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.csprojResolveAssemblyReference.cache
+E:\Software Development & Study\SoftUni\Programming Basics\Projects (Visual Studio)\ForLoops\TurtleGraphics2\bin\Debug\TurtleGraphics2.exe.config
+E:\Software Development & Study\SoftUni\Programming Basics\Projects (Visual Studio)\ForLoops\TurtleGraphics2\bin\Debug\TurtleGraphics2.exe
+E:\Software Development & Study\SoftUni\Programming Basics\Projects (Visual Studio)\ForLoops\TurtleGraphics2\bin\Debug\TurtleGraphics2.pdb
+E:\Software Development & Study\SoftUni\Programming Basics\Projects (Visual Studio)\ForLoops\TurtleGraphics2\bin\Debug\Nakov.TurtleGraphics.dll
+E:\Software Development & Study\SoftUni\Programming Basics\Projects (Visual Studio)\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.csprojResolveAssemblyReference.cache
+E:\Software Development & Study\SoftUni\Programming Basics\Projects (Visual Studio)\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.Form1.resources
+E:\Software Development & Study\SoftUni\Programming Basics\Projects (Visual Studio)\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.Properties.Resources.resources
+E:\Software Development & Study\SoftUni\Programming Basics\Projects (Visual Studio)\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.csproj.GenerateResource.Cache
+E:\Software Development & Study\SoftUni\Programming Basics\Projects (Visual Studio)\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.exe
+E:\Software Development & Study\SoftUni\Programming Basics\Projects (Visual Studio)\ForLoops\TurtleGraphics2\obj\Debug\TurtleGraphics2.pdb
+C:\Users\ikost\Documents\Visual Studio 2017\Projects\TurtleGraphics2\bin\Debug\TurtleGraphics2.exe.config
+C:\Users\ikost\Documents\Visual Studio 2017\Projects\TurtleGraphics2\bin\Debug\TurtleGraphics2.exe
+C:\Users\ikost\Documents\Visual Studio 2017\Projects\TurtleGraphics2\bin\Debug\TurtleGraphics2.pdb
+C:\Users\ikost\Documents\Visual Studio 2017\Projects\TurtleGraphics2\obj\Debug\TurtleGraphics2.csprojAssemblyReference.cache
+C:\Users\ikost\Documents\Visual Studio 2017\Projects\TurtleGraphics2\obj\Debug\TurtleGraphics2.Form1.resources
+C:\Users\ikost\Documents\Visual Studio 2017\Projects\TurtleGraphics2\obj\Debug\TurtleGraphics2.Properties.Resources.resources
+C:\Users\ikost\Documents\Visual Studio 2017\Projects\TurtleGraphics2\obj\Debug\TurtleGraphics2.csproj.GenerateResource.cache
+C:\Users\ikost\Documents\Visual Studio 2017\Projects\TurtleGraphics2\obj\Debug\TurtleGraphics2.csproj.CoreCompileInputs.cache
+C:\Users\ikost\Documents\Visual Studio 2017\Projects\TurtleGraphics2\obj\Debug\TurtleGraphics2.csproj.CopyComplete
+C:\Users\ikost\Documents\Visual Studio 2017\Projects\TurtleGraphics2\obj\Debug\TurtleGraphics2.exe
+C:\Users\ikost\Documents\Visual Studio 2017\Projects\TurtleGraphics2\obj\Debug\TurtleGraphics2.pdb
+C:\Users\ikost\source\Repos\TurtleGraphics2\bin\Debug\TurtleGraphics2.exe.config
+C:\Users\ikost\source\Repos\TurtleGraphics2\bin\Debug\TurtleGraphics2.exe
+C:\Users\ikost\source\Repos\TurtleGraphics2\bin\Debug\TurtleGraphics2.pdb
+C:\Users\ikost\source\Repos\TurtleGraphics2\obj\Debug\TurtleGraphics2.csprojAssemblyReference.cache
+C:\Users\ikost\source\Repos\TurtleGraphics2\obj\Debug\TurtleGraphics2.Form1.resources
+C:\Users\ikost\source\Repos\TurtleGraphics2\obj\Debug\TurtleGraphics2.Properties.Resources.resources
+C:\Users\ikost\source\Repos\TurtleGraphics2\obj\Debug\TurtleGraphics2.csproj.GenerateResource.cache
+C:\Users\ikost\source\Repos\TurtleGraphics2\obj\Debug\TurtleGraphics2.csproj.CoreCompileInputs.cache
+C:\Users\ikost\source\Repos\TurtleGraphics2\obj\Debug\TurtleGraphics2.csproj.CopyComplete
+C:\Users\ikost\source\Repos\TurtleGraphics2\obj\Debug\TurtleGraphics2.exe
+C:\Users\ikost\source\Repos\TurtleGraphics2\obj\Debug\TurtleGraphics2.pdb
